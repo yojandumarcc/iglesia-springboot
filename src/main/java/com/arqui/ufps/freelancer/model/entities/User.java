@@ -30,7 +30,8 @@ public class User implements Serializable {
 
 	private String direccion;
 
-	private String telefono;
+	private String telefono;		
+
 
 	public User() {
 	}
@@ -107,4 +108,5 @@ public class User implements Serializable {
 		this.telefono = telefono;
 	}
 
+	
 }

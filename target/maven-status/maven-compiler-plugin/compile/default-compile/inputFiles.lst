@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\auth\filter\JWTAuthorizationFilter.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\auth\service\JWTService.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\SpringSecurityConfig.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\FreelancerApplication.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\repository\dao\IUserDao.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\WebMvcConfig.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\controller\LoginController.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\auth\filter\SimpleGrantedAuthorityMixin.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\auth\service\JWTServiceImpl.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\controller\UserController.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\utils\Defines.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\utils\GenericResponse.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\swagger\SwaggerConfig.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\model\entities\User.java
+C:\Users\USUARIO\Documents\workspace-spring-tool-suite-4-4.4.0.RELEASE\movil\src\main\java\com\arqui\ufps\freelancer\auth\filter\JWTAuthenticationFilter.java
